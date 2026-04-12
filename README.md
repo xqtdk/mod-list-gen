@@ -88,4 +88,4 @@ python gen.py --no-git
 
 ## ライセンス
 
-このスクリプトは [zlib License](LICENSE) のもとで公開されています。
+このスクリプトは [0BSD License](LICENSE.md) のもとで公開されています。
